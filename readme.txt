@@ -7,4 +7,4 @@ git add
 git commit
 git init.
 你好。
-git is changes.
+git is changes of me.
